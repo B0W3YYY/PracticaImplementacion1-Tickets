@@ -1,0 +1,34 @@
+# Archivos compilados de Java
+*.class
+out/
+target/
+build/
+bin/
+
+# Archivos empaquetados
+*.jar
+*.war
+*.ear
+
+# Configuración de los editores. Es de cada computadora, no del proyecto, así
+# que no se sube: el programa es Java estándar y no depende de ningún editor.
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos que generan las extensiones de Java de los editores
+.classpath
+.project
+.factorypath
+.settings/
+
+# Archivos del sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Registros y archivos temporales
+*.log
+*.tmp
